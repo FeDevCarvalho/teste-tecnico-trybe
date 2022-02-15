@@ -1,0 +1,6 @@
+* endereço https de referencias utilizadas no código: {
+    1) `https://www.alura.com.br/artigos/utilizando-export-modules-no-node-js?gclid=Cj0KCQiAu62QBhC7ARIsALXijXQBjGXrCwS2s-tA8IU3NOavQtefXkPau9wkkYTFoTjeKxS-SXiUBtgaAr6FEALw_wcB`;
+    2) ``
+    3) ``
+    4) ``
+}; 
