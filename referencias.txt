@@ -3,4 +3,8 @@
     2) `https://youtube.com.br`
     3) `https://www.w3schools.com/`
     4) `https://www.cloudhadoop.com/`
+    5) `https://stackoverflow.com/`
+    6) `https://htmlreference.io/`
+    7) `https://www.schemecolor.com/
+    8) `https://www.maujor.com/`
 }; 
