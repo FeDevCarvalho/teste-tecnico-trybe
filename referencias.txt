@@ -1,0 +1,5 @@
+* endereço https de referencias utilizadas no código: {
+    1) `https://www.alura.com.br/`
+    3) `https://youtube.com.br`
+    4) ``
+}; 
