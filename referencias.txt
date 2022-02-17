@@ -1,5 +1,6 @@
-* endereço https de referencias utilizadas no código: {
+* Endereços de referencias utilizadas no código: {
     1) `https://www.alura.com.br/`
-    3) `https://youtube.com.br`
-    4) ``
+    2) `https://youtube.com.br`
+    3) `https://www.w3schools.com/`
+    4) `https://www.cloudhadoop.com/`
 }; 
